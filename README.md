@@ -3,6 +3,10 @@
 #### Develop
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=Android&logoColor=3DDC84"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=Flutter&logoColor=02569B"/></a>
+#### Language
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
 #### PM & Design
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Figma-AB9DFF?style=for-the-badge&logo=Figma&logoColor=FFFFFF"/></a>
 
