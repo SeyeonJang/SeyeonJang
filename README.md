@@ -1,4 +1,15 @@
-### Hi there 👋
+## Mobile Developer Seyeon ✨
+
+#### Develop
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=Android&logoColor=3DDC84"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=Flutter&logoColor=02569B"/></a>
+#### PM & Design
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Figma-FFC657?style=for-the-badge&logo=Figma&logoColor=F24E1E"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyeonJang&show_icons=true&theme=aura_dark)
+
+
+
 
 <!--
 **SeyeonJang/SeyeonJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
