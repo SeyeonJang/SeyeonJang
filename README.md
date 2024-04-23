@@ -19,16 +19,26 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=AB9DFF"/></a>
 #### Projects
-- [N명의 대학생들이 과팅하는 곳 :: 엔대생](https://github.com/SWM-TEAM-SSH/dart_flutter) | **Founder & Flutter 개발 & 데이터 분석**
-- [내 인생을 포트폴리오로! Lifolio :: '나'를 찾는 여정 ](https://github.com/Lifolio/frontend)| **PM**
+<p align="start">
+<img width="15%" alt="image" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa337cd68-c815-4276-bc84-85f84a222ae7%2F057e9ef5-9647-411f-8b99-33254f24f124%2F%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25B3%25E1%2584%2590%25E1%2585%25A1-%25E1%2584%258B%25E1%2585%25A5%25E1%2586%25B8%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2583%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25AD%25E1%2586%25BC-001_(3).png?id=4b540533-df78-4067-9719-1134762b757d&table=block&spaceId=a337cd68-c815-4276-bc84-85f84a222ae7&width=2000&userId=a3b09d19-ccee-4b48-9258-590b4019c8be&cache=v2">
+<img width="15%" alt="image" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa337cd68-c815-4276-bc84-85f84a222ae7%2F990df899-c81f-4280-bd6e-7d42bbd86a41%2FLifolio-%25E1%2584%2589%25E1%2585%25B3%25E1%2584%2590%25E1%2585%25B5%25E1%2584%258F%25E1%2585%25A53_%25E1%2584%2587%25E1%2585%25A9%25E1%2586%25A8%25E1%2584%2589%25E1%2585%25A1%25E1%2584%2587%25E1%2585%25A9%25E1%2586%25AB-002.png?id=9fa1fd06-cda4-48b7-8be5-ff43ac7b3f27&table=block&spaceId=a337cd68-c815-4276-bc84-85f84a222ae7&width=2000&userId=a3b09d19-ccee-4b48-9258-590b4019c8be&cache=v2">
+</p>
+
+<!--
+- [N명의 대학생들이 과팅하는 곳 :: 엔대생](https://github.com/SWM-TEAM-SSH/dart_flutter)  `Founder & Flutter 개발 & 데이터 분석`
+- [내 인생을 포트폴리오로! Lifolio :: '나'를 찾는 여정 ](https://github.com/Lifolio/frontend)  `PM & Android`
+-->
+
 #### Activities
 > |기간|대외활동|역할|
 > |:-:|:-:|:-:|
-> |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Web(React) 스터디장|
-> |2024.02 ~ 2024.06|SKT DEVOCEAN YOUNG|TechWave 팀장, Android|
-> |2024.01 ~ 2024.06|GDSC(Google Developer Student Clubs)|CoreMember & Data Analysis 스터디장|
-> |2023.04 ~ 2023.12|SW Maestro|14기 연수생|
-> |2023.03 ~ 2023.08|대학생 앱 런칭 IT 연합동아리 UMC 4기|CUK 운영진 & Android 파트장|
+> |2024.08 ~ 2024.12|GDSC(Google Developer Student Clubs) CUK 4기|Lead|
+> |2024.07 ~ 2025.02|대학생 앱 런칭 IT 연합동아리 UMC 7기|CUK 부리더|
+> |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Web 스터디장|
+> |2024.02 ~ 2024.11|SKT DEVOCEAN YOUNG|TechWave 팀장, Android|
+> |2024.01 ~ 2024.06|GDSC(Google Developer Student Clubs) CUK 3기|Core Member, Data Analysis 스터디장|
+> |2023.04 ~ 2023.12|SW Maestro (소프트웨어 마에스트로) 14기|SSH 팀장, Flutter, Data Analyst|
+> |2023.03 ~ 2023.08|대학생 앱 런칭 IT 연합동아리 UMC 4기|CUK 운영진, Android 파트장|
 > |2022.09 ~ 2023.02|대학생 앱 런칭 IT 연합동아리 UMC 3기|Android 스터디원|
 
 <!--
