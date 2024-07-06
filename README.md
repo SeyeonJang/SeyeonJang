@@ -32,6 +32,8 @@
 #### Activities
 > |기간|대외활동|역할|
 > |:-:|:-:|:-:|
+> |2024.08 ~ 2025.02|대학생 앱 런칭 IT 연합동아리 UMC 7기|CUK 부리더|
+> |2024.07 ~ 2025.06|GDSC(Google Developer Student Clubs) CUK 3기|Lead|
 > |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Web 스터디장|
 > |2024.02 ~ 2024.11|SKT DEVOCEAN YOUNG|TechWave 팀장, Android|
 > |2024.01 ~ 2024.06|GDSC(Google Developer Student Clubs) CUK 2기|Core Member, Data Analysis 스터디장|
