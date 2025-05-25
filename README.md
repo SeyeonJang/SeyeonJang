@@ -20,12 +20,24 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=AB9DFF"/></a>
 #### Projects
 <p align="start">
-<img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/192482522?s=200&v=4">
-<img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/175378381?s=200&v=4">
-<img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/174857365?s=400&u=321ea41edfd2bcd31b7df649faa92a4e3e81a7e6&v=4">
-<img width="10%" alt="image" src="https://github.com/SeyeonJang/SeyeonJang/assets/47477205/7edd5821-6d41-4fef-a8fb-e6f321c292f3">
-<img width="10%" alt="image" src="https://efficacious-ease-5ad.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa337cd68-c815-4276-bc84-85f84a222ae7%2F4d075dc9-a934-4e3f-a888-34451af4e9d8%2F%25E1%2584%258B%25E1%2585%25A6%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25A2%25E1%2584%2589%25E1%2585%25A2%25E1%2586%25BC.png?table=block&id=1714f19e-53cc-8082-96be-d883c1fa04a4&spaceId=a337cd68-c815-4276-bc84-85f84a222ae7&width=2000&userId=&cache=v2">
-<img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/120035583?s=200&v=4">
+<a href="https://github.com/GDG-ZIMEET/ZIMEET-frontend">
+  <img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/192482522?s=200&v=4">
+</a>
+<a href="https://github.com/UMC-FITple">
+  <img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/175378381?s=200&v=4">
+</a>
+<a href="https://github.com/Devocean-TechWave/OLOL-android">
+  <img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/174857365?s=400&u=321ea41edfd2bcd31b7df649faa92a4e3e81a7e6&v=4">
+</a>
+<a href="https://github.com/COMAtching/COMAtching3_FE">
+  <img width="10%" alt="image" src="https://github.com/SeyeonJang/SeyeonJang/assets/47477205/7edd5821-6d41-4fef-a8fb-e6f321c292f3">
+</a>
+<a href="https://github.com/SeyeonJang/NDaeSaeng">
+  <img width="10%" alt="image" src="https://efficacious-ease-5ad.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa337cd68-c815-4276-bc84-85f84a222ae7%2F4d075dc9-a934-4e3f-a888-34451af4e9d8%2F%25E1%2584%258B%25E1%2585%25A6%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25A2%25E1%2584%2589%25E1%2585%25A2%25E1%2586%25BC.png?table=block&id=1714f19e-53cc-8082-96be-d883c1fa04a4&spaceId=a337cd68-c815-4276-bc84-85f84a222ae7&width=2000&userId=&cache=v2">
+</a>
+<a href="https://github.com/Lifolio/frontend">
+  <img width="10%" alt="image" src="https://avatars.githubusercontent.com/u/120035583?s=200&v=4">
+</a>
 </p>
 
 <!--
@@ -37,6 +49,7 @@
 > |기간|대외활동|역할|
 > |:-:|:-:|:-:|
 > |2024.07 ~ 2025.06|GDG on Campus CUK 24-25 (3기,4기)|Organizer|
+> |2024.09 ~ 2024.11|SKT DEVOCEAN OpenLab|2기 Tableau 데이터 시각화 스터디|
 > |2024.08 ~ 2025.02|대학생 앱 런칭 IT 연합동아리 UMC 7기|CUK 부리더|
 > |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Web 스터디장|
 > |2024.02 ~ 2024.11|SKT DEVOCEAN Young 3기|TechWave 팀장, Android|
